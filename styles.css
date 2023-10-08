@@ -1,0 +1,43 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  header, section, footer {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+  }
+  
+  /* Header Styles */
+  header {
+    background-color: #d8f1c5;
+    text-align: center;
+  }
+  
+  header h1 {
+    margin: 0;
+    padding: 10px;
+  }
+  
+  /* Skills Styles */
+  #skills {
+    background-color: #91ec8e;
+    
+  }
+  
+  /* Projects Styles */
+  #projects {
+    background-color: #75ee5d;
+  }
+  
+  /* Experience Styles */
+  #experience {
+    background-color: #6ae439;
+  }
+  
+  /* Contact Styles */
+  #contact {
+    background-color: #2ad504;
+  }
+  
